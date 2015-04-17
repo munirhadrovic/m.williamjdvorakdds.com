@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e98be9a9-6d04-4510-8c53-3e3d8db2b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.php" afterPath="$PROJECT_DIR$/first/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" afterPath="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="m.williamjdvorakdds.com.iws" />
@@ -30,20 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154" vertical-offset="1819" max-vertical-offset="6426">
-              <caret line="116" column="88" selection-start-line="116" selection-start-column="88" selection-end-line="116" selection-end-column="88" />
+            <state vertical-scroll-proportion="0.4" vertical-offset="1819" max-vertical-offset="6426">
+              <caret line="127" column="26" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34474885" vertical-offset="25385" max-vertical-offset="80835">
+            <state vertical-scroll-proportion="0.0" vertical-offset="25385" max-vertical-offset="80835">
               <caret line="1511" column="24" selection-start-line="1511" selection-start-column="24" selection-end-line="1511" selection-end-column="24" />
               <folding />
             </state>
@@ -53,7 +51,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="1853">
+            <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1853">
               <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
               <folding>
                 <marker date="1427363753168" expanded="true" signature="2644:2655" placeholder="..." />
@@ -80,9 +78,9 @@
         <option value="$PROJECT_DIR$/first/settings.php" />
         <option value="$PROJECT_DIR$/settings.php" />
         <option value="$PROJECT_DIR$/first/css/style-mobile.css" />
-        <option value="$PROJECT_DIR$/first/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
+        <option value="$PROJECT_DIR$/first/index.php" />
       </list>
     </option>
   </component>
@@ -119,6 +117,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -171,7 +170,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,10 +192,16 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -213,6 +217,13 @@
       <option name="number" value="Default" />
       <updated>1425300090128</updated>
     </task>
+    <task id="LOCAL-00001" summary="ispravak futer">
+      <created>1427363841797</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1427363841797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -231,13 +242,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -255,12 +267,47 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="ispravak futer" />
+    <option name="LAST_COMMIT_MESSAGE" value="ispravak futer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/first/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1819" max-vertical-offset="6426">
+          <caret line="116" column="88" selection-start-line="116" selection-start-column="88" selection-end-line="116" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="80835">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1853">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <folding>
+            <marker date="1427363753168" expanded="true" signature="2644:2655" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="2667:2684" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="3433:3444" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="3456:3473" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="4437:4448" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="4460:4477" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="5326:5337" placeholder="..." />
+            <marker date="1427363753168" expanded="true" signature="5349:5366" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6426">
@@ -434,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="1853">
+        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1853">
           <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
           <folding>
             <marker date="1427363753168" expanded="true" signature="2644:2655" placeholder="..." />
@@ -449,18 +496,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first/index.php">
+    <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="1819" max-vertical-offset="6426">
-          <caret line="116" column="88" selection-start-line="116" selection-start-column="88" selection-end-line="116" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="25385" max-vertical-offset="80835">
+          <caret line="1511" column="24" selection-start-line="1511" selection-start-column="24" selection-end-line="1511" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
+    <entry file="file://$PROJECT_DIR$/first/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34474885" vertical-offset="25385" max-vertical-offset="80835">
-          <caret line="1511" column="24" selection-start-line="1511" selection-start-column="24" selection-end-line="1511" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.4" vertical-offset="1819" max-vertical-offset="6426">
+          <caret line="127" column="26" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
           <folding />
         </state>
       </provider>
